@@ -70,12 +70,12 @@ export const templates = {
 
       <picture class="hero-media">
         <source
-          srcset="/imagens/ong-voluntarios.webp"
+          srcset="./imagens/ong-voluntarios.webp"
           type="image/webp"
         >
 
         <img
-          src="/imagens/ong-voluntarios.png"
+          src="./imagens/ong-voluntarios.png"
           alt="Voluntários participando de uma ação social"
           width="800"
           height="600"

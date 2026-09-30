@@ -189,12 +189,16 @@ address {
 
 .contrast-toggle {
   padding: var(--space-sm) var(--space-md);
+
   border: 2px solid var(--color-surface);
   border-radius: var(--border-radius-sm);
+
   background: transparent;
   color: var(--color-surface);
+
   font: inherit;
   font-weight: 700;
+
   cursor: pointer;
 }
 
